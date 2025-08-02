@@ -89,5 +89,5 @@ This graph indicates a cycle between JobA and JobB through R1 and R2, signaling 
 ## Author
 
 Darshit Verma  
-M.Tech Computer Science  
+M.E. Computer Science  
 BITS Pilani, Hyderabad Campus
